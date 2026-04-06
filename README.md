@@ -1,2 +1,1 @@
-# Machine-Learning-AI-OE
-Studied the Machine Learning and AI concepts practically using Jupyter notebook
+# Machine-Learning-And-Artificial-Intelligence-Lab
